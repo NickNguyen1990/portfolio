@@ -1,0 +1,10 @@
+h1 {
+  text-align: center;
+}
+
+.me {
+  margin: auto;
+  width: 150px;
+  height: 250px;
+  display: block;
+}
