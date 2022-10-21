@@ -19,3 +19,7 @@ h1 {
   width: 50%;
   box-sizing: border-box;
 }
+
+body {
+  background-color: rgb(153, 235, 255);
+}
