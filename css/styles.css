@@ -25,6 +25,7 @@ body {
 }
 
 .sidebar {
-  width: 30%;
+  width: 10%;
   float: right;
+  font-size: smaller;
 }
