@@ -29,3 +29,8 @@ body {
   float: right;
   font-size: smaller;
 }
+
+.card {
+  background-color:rgb(153, 235, 255);
+  border: 2px solid black;
+}
