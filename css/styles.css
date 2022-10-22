@@ -33,4 +33,5 @@ body {
 .card {
   background-color:rgb(153, 235, 255);
   border: 2px solid black;
+  margin-bottom: 5px;
 }
