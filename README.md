@@ -19,7 +19,8 @@ _This is my landing portfolio showing what I have learned so far and how I can i
 
 * _No requirements_
 
-_Check out my github at http://www.github.com/NickNguyen1990 _
+Check out my github at http://www.github.com/NickNguyen1990 
+or my github-page https://nicknguyen1990.github.io/portfolio/
 
 ## Known Bugs
 
