@@ -1,5 +1,6 @@
 h1 {
   text-align: center;
+  color: blue;
 }
 
 .me {
@@ -18,10 +19,11 @@ h1 {
   margin-bottom: 10px;
   width: 50%;
   box-sizing: border-box;
+  background-color: rgb(153, 235, 255);
 }
 
 body {
-  background-color: rgb(153, 235, 255);
+  background-color: black;
 }
 
 .sidebar {

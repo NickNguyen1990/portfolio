@@ -19,7 +19,7 @@ _{This is my landing portfolio showing what I have learned so far and how I can 
 
 * _No requirements_
 
-_{Check out my github at http://www.github.com/NickNguyen1990 }_
+_{Check out my github at http://www.github.com/NickNguyen1990}_
 
 ## Known Bugs
 
