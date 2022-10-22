@@ -23,3 +23,8 @@ h1 {
 body {
   background-color: rgb(153, 235, 255);
 }
+
+.sidebar {
+  width: 30%;
+  float: right;
+}
