@@ -11,7 +11,7 @@ h1 {
 }
 
 .intro_me {
-  border: 2px solid black;
+  border: 2px solid yellow;
   padding: 10px;
   display: block;
   margin: auto;
@@ -34,6 +34,6 @@ body {
 
 .card {
   background-color:rgb(153, 235, 255);
-  border: 2px solid black;
+  border: 2px solid yellow;
   margin-bottom: 5px;
 }
