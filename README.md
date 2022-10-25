@@ -17,7 +17,7 @@ _This is my landing portfolio showing what I have learned so far and how I can i
 
 ## Setup/Installation Requirements
 
-* _No requirements_
+* Open terminal then run git clone http://www.github.com/NickNguyen1990/portfolio 
 
 Check out my github at http://www.github.com/NickNguyen1990 
 or my github-page https://nicknguyen1990.github.io/portfolio/
